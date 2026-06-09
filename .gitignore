@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Next.js build output
+.next/
+out/
+
+# Build outputs
+dist/
+build/
+
+# OS metadata
+.DS_Store
